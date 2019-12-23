@@ -8,7 +8,7 @@ In Mac OS, you could compile using this command
 `g++ -w -O3 -o main main.cpp  -L/System/Library/Frameworks -framework GLUT -framework OpenGL`
 
 ## Usage
-./main [PARAMS], where PARAMS are set of,
+`./main [PARAMS]`, where PARAMS are set of,
 * -ka r g b 
 This is the ambient color coefficients of the sphere material. The parameters r g b are numbers between 0 and 1 inclusive. 
 * -kd r g b 
