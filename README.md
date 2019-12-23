@@ -24,7 +24,7 @@ This adds a directional light to the scene. The x y z values are the direction t
 This will render the sphere with toon shader where x is the dividend for color variable (recommended start value: 100000)
 
 Example: 
-./main -ka 0.2 0.2 0.2 -kd 1 1 1 -ks 1 1 1 -sp 200 -pl 5 5 5 1 0 0 -pl -5 5 5 0 1 0 -pl -5 -5 5 0 0 1 -pl 0 1 0 1 1 1
+`./main -ka 0.2 0.2 0.2 -kd 1 1 1 -ks 1 1 1 -sp 200 -pl 5 5 5 1 0 0 -pl -5 5 5 0 1 0 -pl -5 -5 5 0 0 1 -pl 0 1 0 1 1 1`
 
 
 
