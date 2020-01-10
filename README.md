@@ -2,6 +2,7 @@
 
 First homework in 2110514 Realtime Computer Graphics and Physics Simulation at Chulalongkorn University,
 almost the same as the one in CS184: Introduction to Computer Graphics - Spring 2006
+The task is to rendering a shpere with Phong Shading using OpenGL.
 
 ## Compilation
 In Mac OS, you could compile using this command
